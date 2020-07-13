@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passion Portfolio</title>
+    <link>/</link>
+    <description>Recent content on Passion Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Lock - Electronic Lock Solution APP UI Design</title>
+      <link>/2018/09/smart-lock-electronic-lock-solution-app-ui-design/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/smart-lock-electronic-lock-solution-app-ui-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>40 Degree - Freash &amp; Warm Food Services APP UI Design</title>
+      <link>/2017/02/40-degree-freash-warm-food-services-app-ui-design/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/40-degree-freash-warm-food-services-app-ui-design/</guid>
+      <description>Connect the local farm food, convenient delivery system, and interesting site experience to provide modern family enjoy the fresh and warm food.</description>
+    </item>
+    
+    <item>
+      <title>Smart Wash - Laundry Services APP UI Design</title>
+      <link>/2017/01/smart-wash-laundry-services-app-ui-design/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/smart-wash-laundry-services-app-ui-design/</guid>
+      <description>Smart wash is a laundry machine notification and payment services. Making our laundry time much happier and convenient.</description>
+    </item>
+    
+    <item>
+      <title>THE CHOICE</title>
+      <link>/2014/05/the-choice/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/the-choice/</guid>
+      <description>We make lots of choices a day and a day. When we wake up, we will to choose what to wear today or what to eat for breakfast. When we go to college, we have to choose which on is best for us.
+When we choose something sounds bizzard, sounds ridiculous, will we dare to make this decision, will we dare to dream it…
+  </description>
+    </item>
+    
+    <item>
+      <title>Message in Bottle</title>
+      <link>/2014/03/message-in-bottle/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/message-in-bottle/</guid>
+      <description>Can we save our environment, make our life better, or you may change a person’s life even you can not imagine.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ballet Spiderman</title>
+      <link>/2014/02/ballet-spiderman/</link>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/02/ballet-spiderman/</guid>
+      <description>The motion is from CMU library motion capture data and the character model is from Free3D.com.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

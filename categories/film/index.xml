@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>film on Passion Portfolio</title>
+    <link>/categories/film/</link>
+    <description>Recent content in film on Passion Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/film/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>THE CHOICE</title>
+      <link>/2014/05/the-choice/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/the-choice/</guid>
+      <description>We make lots of choices a day and a day. When we wake up, we will to choose what to wear today or what to eat for breakfast. When we go to college, we have to choose which on is best for us.
+When we choose something sounds bizzard, sounds ridiculous, will we dare to make this decision, will we dare to dream it…
+  </description>
+    </item>
+    
+    <item>
+      <title>Message in Bottle</title>
+      <link>/2014/03/message-in-bottle/</link>
+      <pubDate>Sun, 23 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/message-in-bottle/</guid>
+      <description>Can we save our environment, make our life better, or you may change a person’s life even you can not imagine.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ballet Spiderman</title>
+      <link>/2014/02/ballet-spiderman/</link>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/02/ballet-spiderman/</guid>
+      <description>The motion is from CMU library motion capture data and the character model is from Free3D.com.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

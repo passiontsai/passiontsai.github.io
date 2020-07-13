@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Model on Passion Portfolio</title>
+    <link>/categories/business-model/</link>
+    <description>Recent content in Business Model on Passion Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/business-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Wash - Laundry Services APP UI Design</title>
+      <link>/2017/01/smart-wash-laundry-services-app-ui-design/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/smart-wash-laundry-services-app-ui-design/</guid>
+      <description>Smart wash is a laundry machine notification and payment services. Making our laundry time much happier and convenient.</description>
+    </item>
+    
+  </channel>
+</rss>
